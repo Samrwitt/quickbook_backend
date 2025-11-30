@@ -45,6 +45,6 @@ __pycache__/
 venv/
 env/
 
+invoices/
 
-
-certificates
+certificates/
